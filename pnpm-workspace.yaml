@@ -6,5 +6,5 @@ packages:
 catalog:
   vue-tsc: "^2.0.28"
   vite: "^5.3.4"
-  vue: "^3.2.47"
+  vue: "^3.4.0"
   typescript: 5.5.4
